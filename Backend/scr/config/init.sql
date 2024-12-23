@@ -1,4 +1,4 @@
--- Active: 1730676546542@@127.0.0.1@5432@likeme
+-- Active: 1734883751913@@127.0.0.1@5432@likeme
 CREATE TABLE post (
   id SERIAL,
   titulo VARCHAR(25),
